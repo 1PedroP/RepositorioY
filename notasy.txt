@@ -1,1 +1,3 @@
-Exercício de Git e Github
+Exercício de Git e GitHub.
+
+Alteração feita às 9h52min, dia 13/07/2026, localmente.
